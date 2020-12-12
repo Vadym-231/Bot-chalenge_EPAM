@@ -1,0 +1,14 @@
+{
+  "name": "Game",
+  "scripts": {
+    "start": "run-client.bat"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "ws": "^7.4.0"
+  },
+  "devDependencies": {
+    "pathfinding": "^0.4.18"
+  }
+}
